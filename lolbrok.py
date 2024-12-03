@@ -1,9 +1,3 @@
-# *  Author  : Akash Black Hat
-# *  GitHub  : https://github.com/akashblackhat
-# *  YouTub  : TECHNICAL AKASH SKILLS
-# *  FacebooK: https://shorturl.at/MO019
-# *  License : MIT
-
 import smtplib, sys, os, random
 from os import system
 
